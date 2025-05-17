@@ -1,6 +1,6 @@
 # Kemijski Elementi - Vaja
 
-A simple web application for practicing the first twenty elements of the periodic table. The application helps users learn chemical elements by testing their knowledge of element symbols and names.
+A simple web application for practicing the first twenty elements of the periodic table. The application helps users learn chemical elements by testing their knowledge of element symbols and names. The app is in SLOVENIAN LANGUAGE. 
 
 ## Features
 
